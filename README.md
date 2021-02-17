@@ -1,4 +1,3 @@
-![](Shopify Image 1.png)
 # <div align="center"> Shopify-Case-Study
 ## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopfy
@@ -58,8 +57,8 @@ The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
 4.	Wix
 5.	Squarespace 
 6.	Square Online
-7.	Weebly
-“BigCommerce is Shopify’s biggest competitor due to its huge range of powerful sales features, while Volusion offers great analytics for tracking your store’s data. WooCommerce is self-hosted, which brings technical challenges but gives you more control. Wix is best for smaller businesses looking for greater creative freedom, but Squarespace has the most stunning designs. Square Online takes the cake for value, and Weebly is ideal for entrepreneurs.”
+7.	Weebly  
+“BigCommerce is Shopify’s biggest competitor due to its huge range of powerful sales features, while Volusion offers great analytics for tracking your store’s data. WooCommerce is self-hosted, which brings technical challenges but gives you more control. Wix is best for smaller businesses looking for greater creative freedom, but Squarespace has the most stunning designs. Square Online takes the cake for value, and Weebly is ideal for entrepreneurs.”  
 https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/
 ## Results
 * What has been the business impact of this company so far?
