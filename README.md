@@ -86,7 +86,7 @@ The most impactful changes that have taken place in the eCommerce realm in the l
 *https://singalarity.com/blog/our-blog-1/post/the-evolution-of-e-commerce-over-the-last-decade-7*
 
 ### What are the other major companies in this domain?
-The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
+The *WebsiteBuilderExpert* site lists 7 top competitors to Shopify being:
 1.	BigCommerce
 2.	Volusion
 3.	WooCommerce
@@ -106,9 +106,21 @@ Its impact has been profound. Not only did it set an example for similar compani
 
 *www.shopify.com.au*
 
-#### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+#### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  
+In assessing key attributes or features of ecommerce platforms most comparisons are maded on the basis of:  
+1. Price
+2. Support
+3. Payment processing fees and options
+4. Ease of Entry
+5. Features
+6. Community Size
 
 #### How is your company performing relative to competitors in the same domain?
+After surveying a number of different comparison sites Shopify is consistently ranked number one against these categories. 
+
+However an exception is *WebsiteBuilderExpert,* which ranked Wix the best ecommerce overall by a very slim margin however ranked Shopify as best for large commercial sites. 
+
+*https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/*   
 
 ### Recommendations:
 #### If you were to advise the company, what products or services would you suggest they offer? 
