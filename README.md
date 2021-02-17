@@ -18,9 +18,10 @@ It’s Series B round received $15 million in October 2011.
 The company received $100 million in Series C funding in December 2013. 
 On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New York Stock Exchange and Toronto Stock Exchange under the symbols "SHOP" and "SH" respectively. Shopify went public on May 21, 2015, and in its debut on the New York Stock Exchange, started trading at $28, more than 60% higher than its US$17 offering price, with its IPO raising more than $131 million.  
 Wikipedia - https://en.wikipedia.org/wiki/Shopify
-## Business Activities:
-* What specific financial problem is the company or project trying to solve?
-Shopify is an ecommerce platform that empowers its customers to market, sell, transact, ship and manage sales fulfilment. Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two entrepreneurs through to large scale enterprises selling millions of dollars merchandise per week. 
+## Business Activities
+### What specific financial problem is the company or project trying to solve
+Shopify is an ecommerce platform that empowers its customers to market, sell, transact, ship and manage sales fulfilment.  
+Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two entrepreneurs through to large scale enterprises selling millions of dollars merchandise per week.  
 Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and seamlessly fulfil orders through Amazon or any transport\logistics company. 
 The key differentiators of Shopify are its:
 •	Ease of use – upwards from the novice online start-up.
@@ -29,25 +30,25 @@ The key differentiators of Shopify are its:
 For examples of how businesses have used Shopify for such please refer to the attached cases studies titled:
 1.	HiSmile eclipsed $130 million through influencer marketing and going global. 
 2.	
- * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform. 
 Ecommerce growth continues to be extremely strong and obviously the Covid-19 trend has extenuated this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022. 
 In Australia e-commerce has enjoyed similar growth and is expected to reach $35.2 billion in 2021. 
 Indeed, on-line shopping is now one of the most popular online activities worldwide!
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 We devised SwiftERM to generate additional income from existing consumers on ecommerce websites. Available for those using Shopify, Magento, Woocommerce or Opencart, it runs in alongside (not instead of) existing email marketing software like Mailchimp, Drupal or Emarsys. It is 100% automatic so needs zero additional staff. It uses predictive analytics to identify imminent consumer purchases. The average additional turnover achieved is 10.5%. It is the only software in the world authorised to send Trustpilot to send product ratings in outbound emails. Developers and ecommerce retailers are invited to try to it for free, to establish viability this predictive analytics system is. SwiftERM is a certified Microsoft Partner MPN ID 6197468.
 In August 2013, Shopify announced the launch of Shopify Payments, which allowed merchants to accept credit cards without requiring a third-party payment gateway. The company also announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards. The company received $100 million in Series C funding in December 2013. 
 In August 2013, Shopify announced the launch of Shopify Payments, which allowed merchants to accept credit cards without requiring a third-party payment gateway.  The company also announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards. The company received $100 million in Series C funding in December 2013. 
 
 ## Landscape:
-* What domain of the financial industry is the company in?
+### What domain of the financial industry is the company in?
 Shopify is arguably the world lead in the ecommerce domain of the Fintech industry. 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
 
-* What are the other major companies in this domain?
+### What have been the major trends and innovations of this domain over the last 5-10 years?
+
+### What are the other major companies in this domain?
 The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
 1.	BigCommerce
 2.	Volusion
