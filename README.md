@@ -82,21 +82,24 @@ The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
 5.	Squarespace 
 6.	Square Online
 7.	Weebly  
+
 “BigCommerce is Shopify’s biggest competitor due to its huge range of powerful sales features, while Volusion offers great analytics for tracking your store’s data. WooCommerce is self-hosted, which brings technical challenges but gives you more control. Wix is best for smaller businesses looking for greater creative freedom, but Squarespace has the most stunning designs. Square Online takes the cake for value, and Weebly is ideal for entrepreneurs.”  
-https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/
-## Results
-* What has been the business impact of this company so far?
-Shopify led the industry for providing accessible, simple and affordable e-commerce platforms for enterprises of any size. It understood the market power and profitability that came by empowering any business enterprise of any size or complexity to become an on-line business. 
+
+*https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/*  
+
+### Results
+####What has been the business impact of this company so far?
+Shopify led the industry for providing accessible, simple and affordable e-commerce platforms for enterprises of any size. It understood the market power and profitability that came by empowering any business enterprise of any size or complexity to become an on-line business.  
 Its impact has been profound. Not only did it set an example for similar companies to follow (as example note the list competitor companies above) it has been extremely popular. Over 1,000,000 businesses in 175 countries have made over $200 billion USD in sales using Shopify.  
 
-www.shopify.com.au
+*www.shopify.com.au*
 
 #### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 #### How is your company performing relative to competitors in the same domain?
 
 ### Recommendations:
-#### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+#### If you were to advise the company, what products or services would you suggest they offer? 
 My three key recommendations for Shopify are to provide:
   1.	Seamless trade finance. That is provide customers with the ability to purchase goods on credit and then provide factor finance once the goods are sold. Thus, reducing the       capital requirements for start-ups. 
   2.	Increase the solution to provide seamless Warehouse Managements Services (WMS) and Transport Management Services (TMS). Currently this requires integration to third party       applications such as Cargo Wise and/or SmartFreight. 
@@ -110,7 +113,7 @@ The three ideas contained in the previous section would benefit the company by:
 #### What technologies would this additional product or service utilize?
   1.	Technologies for an integrated WMS and TMS would be very similar to the technologies already deployed by Shopify. 
   2.	Providing trade finance would require similar technology to Shopify payments solutions however would probably require a partnership with a finance company or bank. 
-  3.	A blockchain/smart contract solution to facilitate international trade would require an substantial and strategic investment in a block chain technology such as Cardano         and its Marlowe Playground.  
+  3.	A blockchain/smart contract solution to facilitate international trade would require a substantial and strategic investment in a block chain technology such as Cardano         and its Marlowe Playground.  
 #### Why are these technologies appropriate for your solution?
 The first two ideas are simply an extension and enhancement of the same technology and business services currently provided by Shopify. 
 Cardano’s Marlow playground has been specifically designed to provide functionality in the financial services space. It is a third-generation proof-of-stake blockchain platform. Whilst not the only alternative for Shopify it would be a highly logical choice of technology for such an initiative. 
