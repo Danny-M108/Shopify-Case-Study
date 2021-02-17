@@ -61,8 +61,17 @@ An example of these advantage of this commitment include:
 *Wikipedia - https://en.wikipedia.org/wiki/Shopify*
 
 
-### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-In August 2013, Shopify announced the launch of Shopify Payments, which allowed merchants to accept credit cards without requiring a third-party payment gateway.  The company also announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards. 
+### Which technologies are they currently using, and how are they implementing them?  
+Shopify's Current Tech Stack
+Currently, Shopify has around 100 applications and technologies in its tech stack. The most popular apps include Shop: Delivery & Order Tracker, Shopify - Ecommerce Business, Logo Maker: Design & Create, Scratch Photos, Hatchful - Logo Maker, Shopify Point of Sale (POS), Frenzy - Buy Sneakers and More, and Shopify Ping.  
+
+There are nearly 3.5 million app downloads per month from the Shopify solutions stack, almost 3 million of which are of Shop: Delivery & Order Tracker across iTunes and Google Play. The Shopify - Ecommerce Business app gets about 300,000 downloads a month.  
+
+Top digital tools include Google Analytics, HTML5, JavaScript, Oberlo, Facebook Shops, Instagram Shopping, Viewport Meta, Apple Mobile Web Clips Icon, Exchange, Burst, and Hatchful.  
+
+There are also upwards of 4,000 apps that can integrate directly with the ecommerce platform. Additionally, Shopify has several free built-in tools in its technology infrastructure, including a logo maker, a QR code generator, a business card maker, a gift certificate template, a privacy policy generator, a shipping label template, and a profit margin calculator.  
+
+*Guidance.com/blog/shopify-tech-stack#:~:text=Shopify's%20Current%20Tech%20Stack&text=The%20Shopify%20-%20Ecommerce%20Business%20app,Exchange%2C%20Burst%2C%20and%20Hatchful*
 
 ## Landscape:
 ### What domain of the financial industry is the company in?
