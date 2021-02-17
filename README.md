@@ -39,10 +39,10 @@ The key differentiators of Shopify are its:
 Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform.  
 Ecommerce growth continues to be extremely strong with Covid-19 pandemic extenuating this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022.  
 In Australia e-commerce has enjoyed similar growth and is expected to reach $35.2 billion in 2021. 
-<div align="center"> *Indeed, on-line shopping is now one of the most popular online activities worldwide!*  
+<div align="center"> Indeed, on-line shopping is now one of the most popular online activities worldwide!  
   
-### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-  
+### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?).  
+
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 We devised SwiftERM to generate additional income from existing consumers on ecommerce websites. Available for those using Shopify, Magento, Woocommerce or Opencart, it runs in alongside (not instead of) existing email marketing software like Mailchimp, Drupal or Emarsys. It is 100% automatic so needs zero additional staff. It uses predictive analytics to identify imminent consumer purchases. The average additional turnover achieved is 10.5%. It is the only software in the world authorised to send Trustpilot to send product ratings in outbound emails. Developers and ecommerce retailers are invited to try to it for free, to establish viability this predictive analytics system is. SwiftERM is a certified Microsoft Partner MPN ID 6197468.
