@@ -71,7 +71,7 @@ Top digital tools include Google Analytics, HTML5, JavaScript, Oberlo, Facebook 
 
 There are also upwards of 4,000 apps that can integrate directly with the ecommerce platform. Additionally, Shopify has several free built-in tools in its technology infrastructure, including a logo maker, a QR code generator, a business card maker, a gift certificate template, a privacy policy generator, a shipping label template, and a profit margin calculator.  
 
-https://www.guidance.com/blog/shopify-tech-stack#:~:text=Shopify's%20Current%20Tech%20Stack&text=The%20Shopify%20%2D%20Ecommerce%20Business%20app,Exchange%2C%20Burst%2C%20and%20Hatchful.
+*https://www.guidance.com/blog/shopify-tech-stack#:~:text=Shopify's%20Current%20Tech%20Stack&text=The%20Shopify%20%2D%20Ecommerce%20Business%20app,Exchange%2C%20Burst%2C%20and%20Hatchful.*
 
 ## Landscape:
 ### What domain of the financial industry is the company in?
