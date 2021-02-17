@@ -75,17 +75,17 @@ www.shopify.com.au
 My three key recommendations for Shopify are to provide:
   1.	Seamless trade finance. That is provide customers with the ability to purchase goods on credit and then provide factor finance once the goods are sold. Thus, reducing the       capital requirements for start-ups. 
   2.	Increase the solution to provide seamless Warehouse Managements Services (WMS) and Transport Management Services (TMS). Currently this requires integration to third party       applications such as Cargo Wise and/or SmartFreight. 
-3.	Further to point 2 is to provide enhance automation so an order once picked can be seamlessly managed from picking the order through to shipping, delivery tracking and POD confirmation. 
-4.	Provide a blockchain/smart contract solution providing an alternative to the use of letters of credit, US dollars and the Swift payment system. A similar - but far more complex enhancement - to one implemented in August 2013 when it released Shopify payments -which allowed merchants to accept credit cards without requiring a third-party gateway. 
-* Why do you think that offering this product or service would benefit the company?
+  3.	Further to point 2 is to provide enhance automation so an order once picked can be seamlessly managed from picking the order through to shipping, delivery tracking and POD       confirmation. 
+  4.	Provide a blockchain/smart contract solution providing an alternative to the use of letters of credit, US dollars and the Swift payment system. A similar - but far more         complex enhancement - to one implemented in August 2013 when it released Shopify payments -which allowed merchants to accept credit cards without requiring a third-party        gateway. 
+#### Why do you think that offering this product or service would benefit the company?
 The three ideas contained in the previous section would benefit the company by:
-1.	Increasing the ease and simplicity of becoming an on-line business through simplified financing requirements. 
-2.	Provide a seamless and automated stock management solution 
-3.	Facilitate easier international sales and trade by providing 
-* What technologies would this additional product or service utilize?
-1.	Technologies for an integrated WMS and TMS would be very similar to the technologies already deployed by Shopify. 
-2.	Providing trade finance would require similar technology to Shopify payments solutions however would probably require a partnership with a finance company or bank. 
-3.	A blockchain/smart contract solution to facilitate international trade would require an substantial and strategic investment in a block chain technology such as Cardano and its Marlowe Playground. 
-* Why are these technologies appropriate for your solution?
+  1.	Increasing the ease and simplicity of becoming an on-line business through simplified financing requirements. 
+  2.	Provide a seamless and automated stock management solution 
+  3.	Facilitate easier international sales and trade by providing 
+#### What technologies would this additional product or service utilize?
+  1.	Technologies for an integrated WMS and TMS would be very similar to the technologies already deployed by Shopify. 
+  2.	Providing trade finance would require similar technology to Shopify payments solutions however would probably require a partnership with a finance company or bank. 
+  3.	A blockchain/smart contract solution to facilitate international trade would require an substantial and strategic investment in a block chain technology such as Cardano         and its Marlowe Playground.  
+#### Why are these technologies appropriate for your solution?
 The first two ideas are simply an extension and enhancement of the same technology and business services currently provided by Shopify. 
 Cardano’s Marlow playground has been specifically designed to provide functionality in the financial services space. It is a third-generation proof-of-stake blockchain platform. Whilst not the only alternative for Shopify it would be a highly logical choice of technology for such an initiative. 
