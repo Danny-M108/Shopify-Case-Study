@@ -72,7 +72,17 @@ In August 2013, Shopify announced the launch of Shopify Payments, which allowed 
 ### What domain of the financial industry is the company in?
 Shopify is arguably the world lead in the ecommerce domain of the Fintech industry. 
 
-### What have been the major trends and innovations of this domain over the last 5-10 years?
+### What have been the major trends and innovations of this domain over the last 5-10 years?  
+Over the past decade, the evolution of both tech hardware and the internet has had a direct correlation with eCommerce. Just as the internet has grown into the desired medium for marketing, advertising, and purchasing of products, goods, and services; eCommerce has grown to rival traditional shopping in many ways.  
+Preceded by tech giants like Amazon, who joined the space in 1995, and later Google and Paypal who launched their eCommerce initiatives in 1998.  The overall journey of online shopping is far from finished but it has undoubtedly accelerated in the last decade.  
+
+The most impactful changes that have taken place in the eCommerce realm in the last 10 years, however, include:
+1.	The rise of online marketplaces
+2.	The seamless shift to using mobile devices for online shopping
+3.	The tremendous growth of online and digital marketing and advertising.
+4.	The practice using of digital modifications or enhancements to reality in sales and consumer shopping.  
+
+*https://singalarity.com/blog/our-blog-1/post/the-evolution-of-e-commerce-over-the-last-decade-7*
 
 ### What are the other major companies in this domain?
 The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
