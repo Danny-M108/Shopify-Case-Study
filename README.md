@@ -27,11 +27,7 @@ Shopify is an ecommerce platform that empowers its customers to market, sell, tr
 Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two person enterprise through to large scale complex businesses selling millions of dollars merchandise per week.  
 Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and seamlessly fulfil orders through Amazon, Shopify or any transport\logistics company.  
   
-  *Note the following attached case studies of how businesses have achieved great succes with Shopify:*  
-    1. *HiSmile eclipsed $130 million through influencer marketing and going global.*  
-    2.	
-
-### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+ ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform. 
 Ecommerce growth continues to be extremely strong and obviously the Covid-19 trend has extenuated this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022. 
 In Australia e-commerce has enjoyed similar growth and is expected to reach $35.2 billion in 2021. 
