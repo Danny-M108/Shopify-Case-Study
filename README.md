@@ -26,9 +26,10 @@ Shopify has made “going online” simple, accessible and functionally rich. It
 The key differentiators of Shopify are its:  
   •	Ease of use – upwards from the novice online start-up.  
   •	Scalability in size and complexity of the commercial operations.  
-  •	Use of innovative partnerships with organisations such as Amazon, Facebook and Snapchat.
-*Note the following attached case studies of how businesses have achieved great succes with Shopify:
-  1.	*HiSmile eclipsed $130 million through influencer marketing and going global.* 
+  •	Use of innovative partnerships with organisations such as Amazon, Facebook and Snapchat.  
+  *Note the following attached case studies of how businesses have achieved great succes with Shopify:*
+  1.	*HiSmile eclipsed $130 million through influencer marketing and going global.*  
+  2.	 
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform. 
