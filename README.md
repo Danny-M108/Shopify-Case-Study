@@ -16,7 +16,7 @@ The Snowdevil founders launched the platform as Shopify in June 2006.
 ### How is the company funded? How much funding have they received?
 The company was largely self-funding until December 2010 when it received $7m from an initial series A round of venture capital raising.
 It’s Series B round received $15 million in October 2011.   
-The company received $100 million in Series C funding in December 2013. 
+The company received $100 million in Series C funding in December 2013.  
 On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New York Stock Exchange and Toronto Stock Exchange under the symbols "SHOP" and "SH" respectively. Shopify went public on May 21, 2015, and in its debut on the New York Stock Exchange, started trading at $28, more than 60% higher than its US$17 offering price, with its IPO raising more than $131 million.  
 
 *Wikipedia - https://en.wikipedia.org/wiki/Shopify*
