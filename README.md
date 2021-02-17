@@ -1,4 +1,4 @@
-![Shopify Image 1.png](Shopify Image)
+![Shopify Image](Shopify Image.jpg)
 # <div align="center"> Shopify-Case-Study
 ## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopfy
