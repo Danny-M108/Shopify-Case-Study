@@ -9,7 +9,7 @@ Shopify was founded in 2004.
 Tobias Lutke and Scott Lake founded Shopify. 
 ### How did the idea for the company (or project) come about?
 After Tobias and Scott had a poor experience attempting to open Snowdevil, an online store for snowboarding equipment.  
-Dissatisfied with the existing e-commerce products on the market, Tobias, a computer programmer by trade, instead built his own. Tobias used the open source web application framework Ruby on Rails to build Snowdevil's online store, and launched it after two months of development.  
+Dissatisfied with the existing e-commerce products on the market, Tobias, a computer programmer by trade, instead built his own. Tobias used the open source web application framework *Ruby on Rails* to build Snowdevil's online store, and launched it after two months of development.  
 The Snowdevil founders launched the platform as Shopify in June 2006.
 ### How is the company funded? How much funding have they received?
 The company was largely self-funding until December 2010 when it received $7m from an initial series A round of venture capital raising.
