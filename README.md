@@ -63,7 +63,8 @@ https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shop
 ## Results
 * What has been the business impact of this company so far?
 Shopify led the industry for providing accessible, simple and affordable e-commerce platforms for enterprises of any size. It understood the market power and profitability that came by empowering any business enterprise of any size or complexity to become an on-line business. 
-Its impact has been profound. Not only did it set an example for similar companies to follow (as example note the list competitor companies above) it has been extremely popular. Over 1,000,000 businesses in 175 countries have made over $200 billion USD in sales using Shopify. 
+Its impact has been profound. Not only did it set an example for similar companies to follow (as example note the list competitor companies above) it has been extremely popular. Over 1,000,000 businesses in 175 countries have made over $200 billion USD in sales using Shopify.  
+
 www.shopify.com.au
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
