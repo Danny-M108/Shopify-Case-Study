@@ -23,12 +23,13 @@ On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New
 ### Business Activities
 #### What specific financial problem is the company or project trying to solve?
 Shopify is an ecommerce platform that empowers its customers to market, sell, transact, ship and manage sales fulfilment.  
-Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two entrepreneurs through to large scale enterprises selling millions of dollars merchandise per week.  
+Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two person enterprise through to large scale complex businesses selling millions of dollars merchandise per week.  
 Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and seamlessly fulfil orders through Amazon or any transport\logistics company. 
 The key differentiators of Shopify are its:  
   • Ease of use – upwards from the novice online start-up.  
   •	Scalability in size and complexity of the commercial operations.  
   •	Use of innovative partnerships with organisations such as Amazon, Facebook and Snapchat.  
+  
   *Note the following attached case studies of how businesses have achieved great succes with Shopify:*
   *1.	*HiSmile eclipsed $130 million through influencer marketing and going global.*  
   *2.	
