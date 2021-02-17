@@ -52,21 +52,22 @@ The key differentiators of Shopify are its:
 It has consistently pursued market leadership in the provision of a complete ecommerce eco system for online businesses of all sizes. 
 An example of these advantage of this commitment include:  
 
-    •   In June 2009, Shopify launched an application programming interface (API) platform and App Store. The API allows developers to create applications for Shopify online             storesand  then sell them on the Shopify App Store.  
-    •   In April 2010, Shopify launched a free mobile app on the Apple App Store. The app lets Shopify store owners view and manage their stores from iOS mobile devices.  
-    •	  In August 2013 announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards.  
-    •	  In September 2015, Amazon.com announced it would be closing its Amazon Webstore service for merchants, and had selected Shopify as the preferred migration provider.  
-    •	  On October 3, 2016, Shopify acquired Boltmade. In November 2016, Shopify partnered with Paystack which allowed Nigerian online retailers to accept payments from                 customers around the world. On November 22, 2016, Shopify launched Frenzy, a mobile app that improves flash sales.  
-    •	  In January 2017, Shopify announced integration with Amazon that would allow merchants to sell on Amazon from their Shopify stores.  
-    •	  In April 2017, Shopify introduced a Bluetooth enabled debit and credit card reader for brick-and-mortar retail purchases. The company has since released additional               technology for brick-and-mortar retailers, including a point-of-sale system with a Dock and Retail Stand similar to that offered by Square, and a tappable chip card             reader.  
-    •	  On May 11, 2017, Shopify acquired Oberlo, which was one of the star applications on its own Shopify App Store. Oberlo connects Shopify merchants with suppliers who ship         products directly to consumers, and was acquired for $15M.  
-    •	  In January 2019, Shopify announced the launch of Shopify Studios, a full-service television and film content and production house.  
-    •	  In April 2019, Shopify announced an integration with Snapchat to allow Shopify merchants to buy and manage Snapchat Story ads directly on the Shopify platform. The               company had previously secured similar integration partnerships with Facebook and Google.  
-    •	  In May 2019, Shopify acquired Handshake, a business-to-business e-commerce platform for wholesale goods.  
-    •	  In June 2019, Shopify announced that it would launch its own Fulfillment Network. The service promises to handle shipping logistics for merchants and will compete with           an established leader, Amazon FBA. Shopify Fulfillment Network will at first be available to qualifying U.S. merchants in select states.  
-    •	  On August 14, 2019, Shopify launched Shopify Chat, a new native chat function that allows merchants to have real-time conversations with customers visiting Shopify               stores online.  
-    •	  On February 21, 2020, Shopify announced it would join the Libra Association, the Facebook-led group aiming to create the Libra digital currency, to help build a new             payment network.  
-    •	  In November 2020, Shopify announced a partnership with Alipay to support merchants with cross-border payments.
+•	In June 2009, Shopify launched an application programming interface (API) platform and App Store. The API allows developers to create applications for Shopify online and     then sell them on the Shopify App Store.  
+•	In April 2010, Shopify launched a free mobile app on the Apple App Store. The app lets Shopify store owners view and manage their stores from iOS mobile devices.  
+•	In August 2013 announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards.  
+•	In September 2015, Amazon.com announced it would be closing its Amazon Webstore service for merchants and had selected Shopify as the preferred migration provider.  
+•	On October 3, 2016, Shopify acquired Boltmade. In November 2016, Shopify partnered with Paystack which allowed Nigerian online retailers to accept payments from                customers around the world. On November 22, 2016, Shopify launched Frenzy, a mobile app that improves flash sales.  
+•	In January 2017, Shopify announced integration with Amazon that would allow merchants to sell on Amazon from their Shopify stores.  
+•	In April 2017, Shopify introduced a Bluetooth enabled debit and credit card reader for brick-and-mortar retail purchases. The company has since released additional           technology for brick-and-mortar retailers, including a point-of-sale system with a Dock and Retail Stand similar to that offered by Square, and a tappable chip card           reader.  
+•	On May 11, 2017, Shopify acquired Oberlo, which was one of the star applications on its own Shopify App Store. Oberlo connects Shopify merchants with suppliers who ship       products directly to consumers and was acquired for $15M.  
+•	In January 2019, Shopify announced the launch of Shopify Studios, a full-service television and film content and production house.  
+•	In April 2019, Shopify announced an integration with Snapchat to allow Shopify merchants to buy and manage Snapchat Story ads directly on the Shopify platform. The           company had previously secured similar integration partnerships with Facebook and Google.  
+•	In May 2019, Shopify acquired Handshake, a business-to-business e-commerce platform for wholesale goods.  
+•	In June 2019, Shopify announced that it would launch its own Fulfillment Network. The service promises to handle shipping logistics for merchants and will compete with       an established leader, Amazon FBA. Shopify Fulfillment Network will at first be available to qualifying U.S. merchants in select states.  
+•	On August 14, 2019, Shopify launched Shopify Chat, a new native chat function that allows merchants to have real-time conversations with customers visiting Shopify           stores online.  
+•	On February 21, 2020, Shopify announced it would join the Libra Association, the Facebook-led group aiming to create the Libra digital currency, to help build a new           payment network.  
+•	In November 2020, Shopify announced a partnership with Alipay to support merchants with cross-border payments.
+   
  
 *Wikipedia - https://en.wikipedia.org/wiki/Shopify*
 
