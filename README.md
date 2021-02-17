@@ -18,18 +18,18 @@ It’s Series B round received $15 million in October 2011.
 The company received $100 million in Series C funding in December 2013. 
 On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New York Stock Exchange and Toronto Stock Exchange under the symbols "SHOP" and "SH" respectively. Shopify went public on May 21, 2015, and in its debut on the New York Stock Exchange, started trading at $28, more than 60% higher than its US$17 offering price, with its IPO raising more than $131 million.  
 Wikipedia - https://en.wikipedia.org/wiki/Shopify
-## Business Activities
-### What specific financial problem is the company or project trying to solve
+### Business Activities
+#### What specific financial problem is the company or project trying to solve?
 Shopify is an ecommerce platform that empowers its customers to market, sell, transact, ship and manage sales fulfilment.  
 Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two entrepreneurs through to large scale enterprises selling millions of dollars merchandise per week.  
 Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and seamlessly fulfil orders through Amazon or any transport\logistics company. 
-The key differentiators of Shopify are its:
-•	Ease of use – upwards from the novice online start-up.
-•	Scalability in size and complexity of the commercial operations.
-•	Use of innovative partnerships with organisations such as Amazon, Facebook 
-For examples of how businesses have used Shopify for such please refer to the attached cases studies titled:
-1.	HiSmile eclipsed $130 million through influencer marketing and going global. 
-2.	
+The key differentiators of Shopify are its:  
+  •	Ease of use – upwards from the novice online start-up.  
+  •	Scalability in size and complexity of the commercial operations.  
+  •	Use of innovative partnerships with organisations such as Amazon, Facebook and Snapchat.
+*Note the following attached case studies of how businesses have achieved great succes with Shopify:
+  1.	*HiSmile eclipsed $130 million through influencer marketing and going global.* 
+
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform. 
 Ecommerce growth continues to be extremely strong and obviously the Covid-19 trend has extenuated this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022. 
