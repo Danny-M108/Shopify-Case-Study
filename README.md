@@ -41,8 +41,6 @@ Ecommerce growth continues to be extremely strong and obviously the Covid-19 tre
 
 In Australia e-commerce has enjoyed similar growth and is expected to reach $35.2 billion in 2021.  
 
-<div align="center"> Indeed, on-line shopping is now one of the most popular online activities worldwide!   
-  
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Shopify’s key advantage has been its commitment to innovation, technology leadership and leveraging strategic partnerships with organisations such Amazon, Facebook, Snapchat and Apple.  
 
