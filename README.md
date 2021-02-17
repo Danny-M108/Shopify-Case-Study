@@ -10,28 +10,38 @@ Shopify was founded in 2004.
 Tobias Lutke and Scott Lake founded Shopify. 
 ### How did the idea for the company (or project) come about?
 After Tobias and Scott had a poor experience attempting to open Snowdevil, an online store for snowboarding equipment.  
+  
 Dissatisfied with the existing e-commerce products on the market, Tobias, a computer programmer by trade, instead built his own. Tobias used the open source web application framework *Ruby on Rails* to build Snowdevil's online store, and launched it after two months of development.  
+
 The Snowdevil founders launched the platform as Shopify in June 2006.  
   
 *Wikipedia - https://en.wikipedia.org/wiki/Shopify*
 ### How is the company funded? How much funding have they received?
-The company was largely self-funding until December 2010 when it received $7m from an initial series A round of venture capital raising.
-It’s Series B round received $15 million in October 2011.   
+The company was largely self-funding until December 2010 when it received $7m from an initial series A round of venture capital raising.  
+
+It’s Series B round received $15 million in October 2011.  
+
 The company received $100 million in Series C funding in December 2013.  
+
 On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New York Stock Exchange and Toronto Stock Exchange under the symbols "SHOP" and "SH" respectively. Shopify went public on May 21, 2015, and in its debut on the New York Stock Exchange, started trading at $28, more than 60% higher than its US$17 offering price, with its IPO raising more than $131 million.  
 
 *Wikipedia - https://en.wikipedia.org/wiki/Shopify*
 ### Business Activities
 #### What specific financial problem is the company or project trying to solve?
 Shopify is an ecommerce platform that empowers its customers to market, sell, transact, ship and manage sales fulfilment.  
+
 Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two person enterprise through to large scale complex businesses selling millions of dollars merchandise per week.  
+
 Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and seamlessly fulfil orders through Amazon, Shopify or any transport\logistics company.  
   
  ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform. 
-Ecommerce growth continues to be extremely strong and obviously the Covid-19 trend has extenuated this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022. 
-In Australia e-commerce has enjoyed similar growth and is expected to reach $35.2 billion in 2021. 
-Indeed, on-line shopping is now one of the most popular online activities worldwide!
+Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform.  
+
+Ecommerce growth continues to be extremely strong and obviously the Covid-19 trend has extenuated this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022.  
+
+In Australia e-commerce has enjoyed similar growth and is expected to reach $35.2 billion in 2021.  
+
+<div align="center"> Indeed, on-line shopping is now one of the most popular online activities worldwide!
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Shopify’s key advantage has been its commitment to innovation, technology leadership and leveraging strategic partnerships with organisations such Amazon, Facebook, Snapchat and Apple.  
 
