@@ -1,4 +1,4 @@
-![](Shopify Image 1.pdf)
+
 # <div align="center"> Shopify-Case-Study
 ## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopfy
