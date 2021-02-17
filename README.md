@@ -24,12 +24,12 @@ Shopify is an ecommerce platform that empowers its customers to market, sell, tr
 Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two entrepreneurs through to large scale enterprises selling millions of dollars merchandise per week.  
 Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and seamlessly fulfil orders through Amazon or any transport\logistics company. 
 The key differentiators of Shopify are its:  
-  •	Ease of use – upwards from the novice online start-up.  
+  • Ease of use – upwards from the novice online start-up.  
   •	Scalability in size and complexity of the commercial operations.  
   •	Use of innovative partnerships with organisations such as Amazon, Facebook and Snapchat.  
   *Note the following attached case studies of how businesses have achieved great succes with Shopify:*
-  1.	*HiSmile eclipsed $130 million through influencer marketing and going global.*  
-  2.	 
+  *1.	*HiSmile eclipsed $130 million through influencer marketing and going global.*  
+  *2.	
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform. 
@@ -70,11 +70,11 @@ www.shopify.com.au
 
 * How is your company performing relative to competitors in the same domain?
 
-## Recommendations:
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### Recommendations:
+#### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 My three key recommendations for Shopify are to provide:
-1.	Seamless trade finance. That is provide customers with the ability to purchase goods on credit and then provide factor finance once the goods are sold. Thus, reducing the capital requirements for start-ups. 
-2.	Increase the solution to provide seamless Warehouse Managements Services (WMS) and Transport Management Services (TMS). Currently this requires integration to third party applications such as Cargo Wise and/or SmartFreight. 
+  1.	Seamless trade finance. That is provide customers with the ability to purchase goods on credit and then provide factor finance once the goods are sold. Thus, reducing the       capital requirements for start-ups. 
+  2.	Increase the solution to provide seamless Warehouse Managements Services (WMS) and Transport Management Services (TMS). Currently this requires integration to third party       applications such as Cargo Wise and/or SmartFreight. 
 3.	Further to point 2 is to provide enhance automation so an order once picked can be seamlessly managed from picking the order through to shipping, delivery tracking and POD confirmation. 
 4.	Provide a blockchain/smart contract solution providing an alternative to the use of letters of credit, US dollars and the Swift payment system. A similar - but far more complex enhancement - to one implemented in August 2013 when it released Shopify payments -which allowed merchants to accept credit cards without requiring a third-party gateway. 
 * Why do you think that offering this product or service would benefit the company?
