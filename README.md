@@ -3,7 +3,7 @@
 ## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopfy
 #### <div align="center"> Try Shopify for free, and explore all the tools and services you need to start, run, and grow your business."  
-https://shopify.com
+*https://shopify.com*
 ### When was the company incorporated?
 Shopify was founded in 2004. 
 ### Who are the founders of the company?
@@ -48,7 +48,7 @@ An example of these advantage of this commitment include:
 •	In June 2009, Shopify launched an application programming interface (API) platform and App Store. The API allows developers to create applications for Shopify online stores     and then sell them on the Shopify App Store.  
 •	In April 2010, Shopify launched a free mobile app on the Apple App Store. The app lets Shopify store owners view and manage their stores from iOS mobile devices.  
 •	In August 2013 announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards.  
-•	In September 2015, Amazon.com announced it would be closing its Amazon Webstore service for merchants, and had selected Shopify as the preferred migration provider. 
+•	In September 2015, Amazon.com announced it would be closing its Amazon Webstore service for merchants, and had selected Shopify as the preferred migration provider.  
 •	On October 3, 2016, Shopify acquired Boltmade. In November 2016, Shopify partnered with Paystack which allowed Nigerian online retailers to accept payments from customers.       around the world. On November 22, 2016, Shopify launched Frenzy, a mobile app that improves flash sales.  
 •	In January 2017, Shopify announced integration with Amazon that would allow merchants to sell on Amazon from their Shopify stores.  
 •	In April 2017, Shopify introduced a Bluetooth enabled debit and credit card reader for brick-and-mortar retail purchases. The company has since released additional technology   for brick-and-mortar retailers, including a point-of-sale system with a Dock and Retail Stand similar to that offered by Square, and a tappable chip card reader.  
@@ -88,7 +88,7 @@ The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
 *https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/*  
 
 ### Results
-####What has been the business impact of this company so far?
+#### What has been the business impact of this company so far?  
 Shopify led the industry for providing accessible, simple and affordable e-commerce platforms for enterprises of any size. It understood the market power and profitability that came by empowering any business enterprise of any size or complexity to become an on-line business.  
 Its impact has been profound. Not only did it set an example for similar companies to follow (as example note the list competitor companies above) it has been extremely popular. Over 1,000,000 businesses in 175 countries have made over $200 billion USD in sales using Shopify.  
 
