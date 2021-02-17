@@ -51,7 +51,7 @@ In August 2013, Shopify announced the launch of Shopify Payments, which allowed 
 
 ## Landscape:
 ### What domain of the financial industry is the company in?
-Shopify is arguably the world lead in the ecommerce domain of the Fintech industry. 
+Shopify is arguably the world leader in the ecommerce domain of the Fintech industry. 
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -64,6 +64,7 @@ The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
 5.	Squarespace 
 6.	Square Online
 7.	Weebly  
+
 “BigCommerce is Shopify’s biggest competitor due to its huge range of powerful sales features, while Volusion offers great analytics for tracking your store’s data. WooCommerce is self-hosted, which brings technical challenges but gives you more control. Wix is best for smaller businesses looking for greater creative freedom, but Squarespace has the most stunning designs. Square Online takes the cake for value, and Weebly is ideal for entrepreneurs.”  
 https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/
 ## Results
@@ -73,9 +74,9 @@ Its impact has been profound. Not only did it set an example for similar compani
 
 www.shopify.com.au
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+### How is your company performing relative to competitors in the same domain?
 
 ### Recommendations:
 #### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
