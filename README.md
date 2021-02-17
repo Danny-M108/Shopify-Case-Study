@@ -1,3 +1,4 @@
+
 # <div align="center"> Shopify-Case-Study
 ## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopfy
@@ -36,22 +37,19 @@ The key differentiators of Shopify are its:
     2.	
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform.  
-Ecommerce growth continues to be extremely strong with Covid-19 pandemic extenuating this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022.  
+Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform. 
+Ecommerce growth continues to be extremely strong and obviously the Covid-19 trend has extenuated this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022. 
 In Australia e-commerce has enjoyed similar growth and is expected to reach $35.2 billion in 2021. 
-<div align="center"> Indeed, on-line shopping is now one of the most popular online activities worldwide!  
-  
-### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?).  
+Indeed, on-line shopping is now one of the most popular online activities worldwide!
+### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-We devised SwiftERM to generate additional income from existing consumers on ecommerce websites. Available for those using Shopify, Magento, Woocommerce or Opencart, it runs in alongside (not instead of) existing email marketing software like Mailchimp, Drupal or Emarsys. It is 100% automatic so needs zero additional staff. It uses predictive analytics to identify imminent consumer purchases. The average additional turnover achieved is 10.5%. It is the only software in the world authorised to send Trustpilot to send product ratings in outbound emails. Developers and ecommerce retailers are invited to try to it for free, to establish viability this predictive analytics system is. SwiftERM is a certified Microsoft Partner MPN ID 6197468.
-In August 2013, Shopify announced the launch of Shopify Payments, which allowed merchants to accept credit cards without requiring a third-party payment gateway. The company also announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards. The company received $100 million in Series C funding in December 2013. 
-In August 2013, Shopify announced the launch of Shopify Payments, which allowed merchants to accept credit cards without requiring a third-party payment gateway.  The company also announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards. The company received $100 million in Series C funding in December 2013. 
+In August 2013, Shopify announced the launch of Shopify Payments, which allowed merchants to accept credit cards without requiring a third-party payment gateway.  The company also announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards. 
 
 ## Landscape:
 ### What domain of the financial industry is the company in?
-Shopify is arguably the world leader in the ecommerce domain of the Fintech industry. 
+Shopify is arguably the world lead in the ecommerce domain of the Fintech industry. 
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -64,7 +62,6 @@ The “WebsiteBuilderExpert” site lists 7 top competitors to Shopify being:
 5.	Squarespace 
 6.	Square Online
 7.	Weebly  
-
 “BigCommerce is Shopify’s biggest competitor due to its huge range of powerful sales features, while Volusion offers great analytics for tracking your store’s data. WooCommerce is self-hosted, which brings technical challenges but gives you more control. Wix is best for smaller businesses looking for greater creative freedom, but Squarespace has the most stunning designs. Square Online takes the cake for value, and Weebly is ideal for entrepreneurs.”  
 https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/
 ## Results
@@ -74,9 +71,9 @@ Its impact has been profound. Not only did it set an example for similar compani
 
 www.shopify.com.au
 
-### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+#### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-### How is your company performing relative to competitors in the same domain?
+#### How is your company performing relative to competitors in the same domain?
 
 ### Recommendations:
 #### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
