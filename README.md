@@ -51,6 +51,7 @@ The key differentiators of Shopify are its:
 
 It has consistently pursued market leadership in the provision of a complete ecommerce eco system for online businesses of all sizes. 
 An example of these advantage of this commitment include:  
+
     •   In June 2009, Shopify launched an application programming interface (API) platform and App Store. The API allows developers to create applications for Shopify online             storesand  then sell them on the Shopify App Store.  
     •   In April 2010, Shopify launched a free mobile app on the Apple App Store. The app lets Shopify store owners view and manage their stores from iOS mobile devices.  
     •	  In August 2013 announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards.  
@@ -116,6 +117,7 @@ The *WebsiteBuilderExpert* site lists 7 top competitors to Shopify being:
 ### Results
 #### What has been the business impact of this company so far?  
 Shopify led the industry for providing accessible, simple and affordable e-commerce platforms for enterprises of any size. It understood the market power and profitability that came by empowering any business enterprise of any size or complexity to become an on-line business.  
+
 Its impact has been profound. Not only did it set an example for similar companies to follow (as example note the list competitor companies above) it has been extremely popular. Over 1,000,000 businesses in 175 countries have made over $200 billion USD in sales using Shopify.  
 
 *www.shopify.com.au*
