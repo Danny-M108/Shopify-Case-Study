@@ -46,8 +46,8 @@ The key differentiators of Shopify are its:
 
 It has consistently pursued market leadership in the provision of a complete ecommerce eco system for online businesses of all sizes. 
 An example of these advantage of this commitment include:  
-    •	  In June 2009, Shopify launched an application programming interface (API) platform and App Store. The API allows developers to create applications for Shopify online             storesand  then sell them on the Shopify App Store.  
-    •	  In April 2010, Shopify launched a free mobile app on the Apple App Store. The app lets Shopify store owners view and manage their stores from iOS mobile devices.  
+    •   In June 2009, Shopify launched an application programming interface (API) platform and App Store. The API allows developers to create applications for Shopify online             storesand  then sell them on the Shopify App Store.  
+    •   In April 2010, Shopify launched a free mobile app on the Apple App Store. The app lets Shopify store owners view and manage their stores from iOS mobile devices.  
     •	  In August 2013 announced the launch of an iPad-centric point of sale system. It uses an iPad to accept payments from debit and credit cards.  
     •	  In September 2015, Amazon.com announced it would be closing its Amazon Webstore service for merchants, and had selected Shopify as the preferred migration provider.  
     •	  On October 3, 2016, Shopify acquired Boltmade. In November 2016, Shopify partnered with Paystack which allowed Nigerian online retailers to accept payments from                 customers around the world. On November 22, 2016, Shopify launched Frenzy, a mobile app that improves flash sales.  
@@ -70,7 +70,7 @@ In August 2013, Shopify announced the launch of Shopify Payments, which allowed 
 
 ## Landscape:
 ### What domain of the financial industry is the company in?
-Shopify is arguably the world lead in the ecommerce domain of the Fintech industry. 
+Shopify is arguably the world leader in the ecommerce domain of the Fintech industry. 
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?  
 Over the past decade, the evolution of both tech hardware and the internet has had a direct correlation with eCommerce. Just as the internet has grown into the desired medium for marketing, advertising, and purchasing of products, goods, and services; eCommerce has grown to rival traditional shopping in many ways.  
