@@ -74,6 +74,7 @@ Shopify is arguably the world lead in the ecommerce domain of the Fintech indust
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?  
 Over the past decade, the evolution of both tech hardware and the internet has had a direct correlation with eCommerce. Just as the internet has grown into the desired medium for marketing, advertising, and purchasing of products, goods, and services; eCommerce has grown to rival traditional shopping in many ways.  
+
 Preceded by tech giants like Amazon, who joined the space in 1995, and later Google and Paypal who launched their eCommerce initiatives in 1998.  The overall journey of online shopping is far from finished but it has undoubtedly accelerated in the last decade.  
 
 The most impactful changes that have taken place in the eCommerce realm in the last 10 years, however, include:
