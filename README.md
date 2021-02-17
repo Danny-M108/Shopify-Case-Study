@@ -1,7 +1,7 @@
-# Shopify-Case-Study
-## Danny Milsom
+# <div align="center"> Shopify-Case-Study
+## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopfy
-#### <div align="center"> Try Shopify for free, adn explore all the tools and services you need to start, run, and grow your business."  
+#### <div align="center"> Try Shopify for free, and explore all the tools and services you need to start, run, and grow your business."  
 https://shopify.com
 ### When was the company incorporated?
 Shopify was founded in 2004. 
