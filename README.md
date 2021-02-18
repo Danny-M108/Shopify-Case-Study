@@ -25,7 +25,7 @@ The company received $100 million in Series C funding in December 2013.
 
 On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New York Stock Exchange and Toronto Stock Exchange under the symbols "SHOP" and "SH" respectively. Shopify went public on May 21, 2015, and on its debut on the New York Stock Exchange, started trading at $28, more than 60% higher than its US$17 offering price, with its IPO raising more than $131 million.  
 
-*Wikipedia - https://en.wikipedia.org/wiki/Shopify*
+[Wikipedia](https://en.wikipedia.org/wiki/Shopify)
 ### Business Activities
 #### What specific financial problem is the company or project trying to solve?
 Shopify is an ecommerce platform that empowers its customers to market, sell, transact, ship and manage sales fulfilment.  
