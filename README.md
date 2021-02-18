@@ -162,3 +162,4 @@ The three ideas contained in the previous section would benefit the company by:
 #### Why are these technologies appropriate for your solution?
 The first two ideas are simply an extension and enhancement of the same technology and business services currently provided by Shopify. 
 Cardano’s Marlow playground has been specifically designed to provide functionality in the financial services space. It is a third-generation proof-of-stake blockchain platform. Whilst not the only alternative for Shopify it would be a highly logical choice of technology for such an initiative. 
+Danny Milsom
