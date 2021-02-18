@@ -15,7 +15,7 @@ Dissatisfied with the existing e-commerce products on the market, Tobias, a comp
 
 The Snowdevil founders launched the platform as Shopify in June 2006.  
   
-*Wikipedia - https://en.wikipedia.org/wiki/Shopify*
+*[Wikipedia](https://en.wikipedia.org/wiki/Shopify*)
 ### How is the company funded? How much funding have they received?
 The company was largely self-funding until December 2010 when it received $7m from an initial Series A round of venture capital raising.  
 
