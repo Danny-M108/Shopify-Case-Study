@@ -89,7 +89,7 @@ Top digital tools include Google Analytics, HTML5, JavaScript, Oberlo, Facebook 
 
 There are also upwards of 4,000 apps that can integrate directly with the ecommerce platform. Additionally, Shopify has several free built-in tools in its technology infrastructure, including a logo maker, a QR code generator, a business card maker, a gift certificate template, a privacy policy generator, a shipping label template, and a profit margin calculator.  
 
-*https://www.guidance.com/blog/shopify-tech-stack#:~:text=Shopify's%20Current%20Tech%20Stack&text=The%20Shopify%20%2D%20Ecommerce%20Business%20app,Exchange%2C%20Burst%2C%20and%20Hatchful.*
+[Guidance](https://www.guidance.com/blog/shopify-tech-stack#:~:text=Shopify's%20Current%20Tech%20Stack&text=The%20Shopify%20%2D%20Ecommerce%20Business%20app,Exchange%2C%20Burst%2C%20and%20Hatchful.)
 
 ## Landscape:
 ### What domain of the financial industry is the company in?
@@ -106,7 +106,7 @@ The most impactful changes that have taken place in the eCommerce realm in the l
 3.	The tremendous growth of online and digital marketing and advertising.
 4.	The practice of using digital modifications or enhancements to reality in sales and consumer shopping.  
 
-*https://singalarity.com/blog/our-blog-1/post/the-evolution-of-e-commerce-over-the-last-decade-7*
+[Singularity](https://singalarity.com/blog/our-blog-1/post/the-evolution-of-e-commerce-over-the-last-decade-7)
 
 ### What are the other major companies in this domain?
 The *WebsiteBuilderExpert* site lists 7 top competitors to Shopify being:
@@ -120,7 +120,7 @@ The *WebsiteBuilderExpert* site lists 7 top competitors to Shopify being:
 
 “BigCommerce is Shopify’s biggest competitor due to its huge range of powerful sales features, while Volusion offers great analytics for tracking your store’s data. WooCommerce is self-hosted, which brings technical challenges but gives you more control. Wix is best for smaller businesses looking for greater creative freedom, but Squarespace has the most stunning designs. Square Online takes the cake for value, and Weebly is ideal for entrepreneurs.”  
 
-*https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/*  
+[WebsitebuilderExpert](https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/)  
 
 ### Results
 #### What has been the business impact of this company so far?  
