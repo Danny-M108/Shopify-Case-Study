@@ -17,31 +17,31 @@ The Snowdevil founders launched the platform as Shopify in June 2006.
   
 *Wikipedia - https://en.wikipedia.org/wiki/Shopify*
 ### How is the company funded? How much funding have they received?
-The company was largely self-funding until December 2010 when it received $7m from an initial series A round of venture capital raising.  
+The company was largely self-funding until December 2010 when it received $7m from an initial Series A round of venture capital raising.  
 
 It’s Series B round received $15 million in October 2011.  
 
 The company received $100 million in Series C funding in December 2013.  
 
-On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New York Stock Exchange and Toronto Stock Exchange under the symbols "SHOP" and "SH" respectively. Shopify went public on May 21, 2015, and in its debut on the New York Stock Exchange, started trading at $28, more than 60% higher than its US$17 offering price, with its IPO raising more than $131 million.  
+On April 14, 2015, Shopify filed for an initial public offering (IPO) on the New York Stock Exchange and Toronto Stock Exchange under the symbols "SHOP" and "SH" respectively. Shopify went public on May 21, 2015, and on its debut on the New York Stock Exchange, started trading at $28, more than 60% higher than its US$17 offering price, with its IPO raising more than $131 million.  
 
 *Wikipedia - https://en.wikipedia.org/wiki/Shopify*
 ### Business Activities
 #### What specific financial problem is the company or project trying to solve?
 Shopify is an ecommerce platform that empowers its customers to market, sell, transact, ship and manage sales fulfilment.  
 
-Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two person enterprise through to large scale complex businesses selling millions of dollars merchandise per week.  
+Shopify distinguishes itself in providing solutions for almost any business size – from the smallest one or two person enterprise through to large scale complex businesses selling millions of dollars of merchandise per week.  
 
-Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and seamlessly fulfil orders through Amazon, Shopify or any transport\logistics company.  
+Shopify has made “going online” simple, accessible and functionally rich. Its customers can seamlessly receive online orders, receive payments (through a variety of direct and indirect channels) and fulfil orders through Amazon, Shopify or any transport\logistics company.  
   
  ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Shopify offerings are scaled for almost any size business operation providing solutions to 1,000,000 businesses in 175 countries. Any enterprise that wants to operate an online business can use the Shopify ecommerce platform.  
 
-Ecommerce growth continues to be extremely strong and obviously the Covid-19 trend has extenuated this growth. In 2019, retail e-commerce sales worldwide amount to 3.53 trillion US dollars with sales projected to grow to 6.54 trillion by 2022.  
+Ecommerce growth continues to be extremely strong and obviously the Covid-19 pandemic has extenuated this growth. In 2019, retail ecommerce sales worldwide amount to $3.53 trillion US dollars with sales projected to grow to $6.54 trillion by 2022.  
 
 *https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/*
 
-In Australia e-commerce has enjoyed similar growth and is expected to reach $33.1 billion in 2021.
+In Australia e-commerce has enjoyed similar growth and is expected to reach $33.1 billion AUD in 2021.
 
 *www.jpmorgan.com › europe › insights › reports › australia*
 
@@ -79,7 +79,8 @@ An example of these advantage of this commitment include:
 
 
 ### Which technologies are they currently using, and how are they implementing them?  
-Shopify's Current Tech Stack
+Shopify's Current Tech Stack  
+
 Currently, Shopify has around 100 applications and technologies in its tech stack. The most popular apps include Shop: Delivery & Order Tracker, Shopify - Ecommerce Business, Logo Maker: Design & Create, Scratch Photos, Hatchful - Logo Maker, Shopify Point of Sale (POS), Frenzy - Buy Sneakers and More, and Shopify Ping.  
 
 There are nearly 3.5 million app downloads per month from the Shopify solutions stack, almost 3 million of which are of Shop: Delivery & Order Tracker across iTunes and Google Play. The Shopify - Ecommerce Business app gets about 300,000 downloads a month.  
@@ -95,15 +96,15 @@ There are also upwards of 4,000 apps that can integrate directly with the ecomme
 Shopify is arguably the world leader in the ecommerce domain of the Fintech industry. 
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?  
-Over the past decade, the evolution of both tech hardware and the internet has had a direct correlation with eCommerce. Just as the internet has grown into the desired medium for marketing, advertising, and purchasing of products, goods, and services; eCommerce has grown to rival traditional shopping in many ways.  
+Over the past decade, the evolution of both tech hardware and the internet has had a direct correlation with ecommerce. Just as the internet has grown into the desired medium for marketing, advertising, and purchasing of products, goods, and services; eCommerce has grown to rival traditional shopping in many ways.  
 
-Preceded by tech giants like Amazon, who joined the space in 1995, and later Google and Paypal who launched their eCommerce initiatives in 1998.  The overall journey of online shopping is far from finished but it has undoubtedly accelerated in the last decade.  
+Preceded by tech giants like Amazon, who joined the space in 1995, and later Google and Paypal who launched their eCommerce initiatives in 1998.  The overall journey of online shopping is far from complete but it has undoubtedly accelerated in the last decade.  
 
 The most impactful changes that have taken place in the eCommerce realm in the last 10 years, however, include:
 1.	The rise of online marketplaces
 2.	The seamless shift to using mobile devices for online shopping
 3.	The tremendous growth of online and digital marketing and advertising.
-4.	The practice using of digital modifications or enhancements to reality in sales and consumer shopping.  
+4.	The practice of using digital modifications or enhancements to reality in sales and consumer shopping.  
 
 *https://singalarity.com/blog/our-blog-1/post/the-evolution-of-e-commerce-over-the-last-decade-7*
 
@@ -123,14 +124,14 @@ The *WebsiteBuilderExpert* site lists 7 top competitors to Shopify being:
 
 ### Results
 #### What has been the business impact of this company so far?  
-Shopify led the industry for providing accessible, simple and affordable e-commerce platforms for enterprises of any size. It understood the market power and profitability that came by empowering any business enterprise of any size or complexity to become an on-line business.  
+Shopify leads the industry for providing accessible, simple and affordable e-commerce platforms for enterprises of any size. It understood the market power and profitability that came by empowering any business enterprise of any size or complexity to become an on-line business.  
 
 Its impact has been profound. Not only did it set an example for similar companies to follow (as example note the list competitor companies above) it has been extremely popular. Over 1,000,000 businesses in 175 countries have made over $200 billion USD in sales using Shopify.  
 
 *www.shopify.com.au*
 
 #### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  
-In assessing key attributes or features of ecommerce platforms most comparisons are maded on the basis of:  
+In assessing key attributes or features of ecommerce platforms most comparisons are made on the basis of:  
 1. Price
 2. Support
 3. Payment processing fees and options
@@ -147,16 +148,16 @@ However an exception is *WebsiteBuilderExpert,* which ranked Wix the best ecomme
 
 ### Recommendations:
 #### If you were to advise the company, what products or services would you suggest they offer? 
-My three key recommendations for Shopify are to provide:
+My three key recommendations for Shopify is for it to provide:
   1.	Seamless trade finance. That is provide customers with the ability to purchase goods on credit and then provide factor finance once the goods are sold. Thus, reducing the       capital requirements for start-ups. 
-  2.	Increase the solution to provide seamless Warehouse Managements Services (WMS) and Transport Management Services (TMS). Currently this requires integration to third party       applications such as Cargo Wise and/or SmartFreight. 
-  3.	Further to point 2 is to provide enhance automation so an order once picked can be seamlessly managed from picking the order through to shipping, delivery tracking and POD       confirmation. 
-  4.	Provide a blockchain/smart contract solution providing an alternative to the use of letters of credit, US dollars and the Swift payment system. A similar - but far more         complex enhancement - to one implemented in August 2013 when it released Shopify payments -which allowed merchants to accept credit cards without requiring a third-party        gateway. 
+  2.	Increase the solution to provide seamless Warehouse Management Services (WMS) and Transport Management Services (TMS). Currently this requires integration to third party         applications such as Cargo Wise and/or SmartFreight. 
+  3.	Further to point 2 is for Shopify to provide enhance automation so an order once picked can be seamlessly managed from picking the order through to shipping, delivery           tracking and POD confirmation. 
+  4.	Provide a blockchain/smart contract solution providing an alternative to using letters of credit, US dollars and the Swift payment system. A similar - but far more               complex enhancement - to one implemented in August 2013 when it released Shopify payments -which allowed merchants to accept credit cards without requiring a third-party         gateway. 
 #### Why do you think that offering this product or service would benefit the company?
 The three ideas contained in the previous section would benefit the company by:
   1.	Increasing the ease and simplicity of becoming an on-line business through simplified financing requirements. 
   2.	Provide a seamless and automated stock management solution 
-  3.	Facilitate easier international sales and trade by providing 
+  3.	Facilitate easier international sales and trade by providing cheaper processes.  
 #### What technologies would this additional product or service utilize?
   1.	Technologies for an integrated WMS and TMS would be very similar to the technologies already deployed by Shopify. 
   2.	Providing trade finance would require similar technology to Shopify payments solutions however would probably require a partnership with a finance company or bank. 
