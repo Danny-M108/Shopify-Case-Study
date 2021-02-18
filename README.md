@@ -3,7 +3,7 @@
 ## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopify
 #### <div align="center"> Try Shopify for free, and explore all the tools and services you need to start, run, and grow your business."  
-*https://shopify.com*
+[Shopify](https://shopify.com0
 ### When was the company incorporated?
 Shopify was founded in 2004. 
 ### Who are the founders of the company?
@@ -39,7 +39,7 @@ Shopify offerings are scaled for almost any size business operation providing so
 
 Ecommerce growth continues to be extremely strong and obviously the Covid-19 pandemic has extenuated this growth. In 2019, retail ecommerce sales worldwide amount to $3.53 trillion US dollars with sales projected to grow to $6.54 trillion by 2022.  
 
-*https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/*
+[Statista](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/)
 
 In Australia e-commerce has enjoyed similar growth and is expected to reach $33.1 billion AUD in 2021.
 
