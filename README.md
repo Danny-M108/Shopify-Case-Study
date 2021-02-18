@@ -43,7 +43,7 @@ Ecommerce growth continues to be extremely strong and obviously the Covid-19 pan
 
 In Australia e-commerce has enjoyed similar growth and is expected to reach $33.1 billion AUD in 2021.
 
-*www.jpmorgan.com › europe › insights › reports › australia*
+[JP Morgan](www.jpmorgan.com › europe › insights › reports › australia)
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Shopify’s key advantage has been its commitment to innovation, technology leadership and leveraging strategic partnerships with organisations such Amazon, Facebook, Snapchat and Apple.  
@@ -75,7 +75,7 @@ An example of these advantage of this commitment include:
 
    
  
-*Wikipedia - https://en.wikipedia.org/wiki/Shopify*
+*[Wikipedia](https://en.wikipedia.org/wiki/Shopify*)
 
 
 ### Which technologies are they currently using, and how are they implementing them?  
