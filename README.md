@@ -144,7 +144,7 @@ After surveying a number of different comparison sites Shopify is consistently r
 
 However an exception is *WebsiteBuilderExpert,* which ranked Wix the best ecommerce overall by a very slim margin however ranked Shopify as best for large commercial sites. 
 
-*https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/*   
+[WebsitebuilderExpert](https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/)  
 
 ### Recommendations:
 #### If you were to advise the company, what products or services would you suggest they offer? 
