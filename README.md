@@ -3,7 +3,7 @@
 ## <div align="center"> Danny Milsom
 ### <div align="center">"Start your businesss journey with Shopify
 #### <div align="center"> Try Shopify for free, and explore all the tools and services you need to start, run, and grow your business."  
-[Shopify](https://shopify.com0
+[Shopify](https://shopify.com)
 ### When was the company incorporated?
 Shopify was founded in 2004. 
 ### Who are the founders of the company?
@@ -43,7 +43,7 @@ Ecommerce growth continues to be extremely strong and obviously the Covid-19 pan
 
 In Australia e-commerce has enjoyed similar growth and is expected to reach $33.1 billion AUD in 2021.
 
-[JP Morgan](www.jpmorgan.com › europe › insights › reports › australia)
+[JP Morgan](https://www.jpmorgan.com › europe › insights › reports › australia)
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Shopify’s key advantage has been its commitment to innovation, technology leadership and leveraging strategic partnerships with organisations such Amazon, Facebook, Snapchat and Apple.  
@@ -128,7 +128,7 @@ Shopify leads the industry for providing accessible, simple and affordable e-com
 
 Its impact has been profound. Not only did it set an example for similar companies to follow (as example note the list competitor companies above) it has been extremely popular. Over 1,000,000 businesses in 175 countries have made over $200 billion USD in sales using Shopify.  
 
-*www.shopify.com.au*
+[Shopify](https://shopify.com)
 
 #### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  
 In assessing key attributes or features of ecommerce platforms most comparisons are made on the basis of:  
