@@ -41,9 +41,9 @@ Ecommerce growth continues to be extremely strong and obviously the Covid-19 pan
 
 [Statista](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/)
 
-In Australia e-commerce has enjoyed similar growth and is expected to reach $33.1 billion AUD in 2021.
+In Australia e-commerce has enjoyed similar growth and is expected to reach $33.1 billion AUD in 2020.
 
-[JP Morgan](https://www.jpmorgan.com\europe › insights › reports › australia)
+[Statista](https://www.statista.com/outlook/243/107/ecommerce/australia)
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Shopify’s key advantage has been its commitment to innovation, technology leadership and leveraging strategic partnerships with organisations such Amazon, Facebook, Snapchat and Apple.  
